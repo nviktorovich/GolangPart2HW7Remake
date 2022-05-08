@@ -1,0 +1,9 @@
+mode: set
+ReflectResearch/main.go:27.13,35.49 5 0
+ReflectResearch/main.go:39.2,39.27 1 0
+ReflectResearch/main.go:35.49,37.3 1 0
+ReflectResearch/main.go:43.62,44.17 1 1
+ReflectResearch/main.go:48.2,49.22 2 1
+ReflectResearch/main.go:54.2,54.12 1 1
+ReflectResearch/main.go:44.17,47.3 2 1
+ReflectResearch/main.go:49.22,52.8 3 1
