@@ -16,4 +16,4 @@ jobs:
 
             - name: Test
               run: |
-                  go build main.go
+                  go build .
