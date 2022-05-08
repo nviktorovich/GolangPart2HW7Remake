@@ -19,7 +19,7 @@ jobs:
         go-version: 1.18
 
     - name: Build
-      run: go build -v ./Task2/
+      run: go build -v Task2/
 
     - name: Test
       run: go test -v ./...
