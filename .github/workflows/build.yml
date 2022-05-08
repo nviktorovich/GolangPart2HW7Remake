@@ -16,7 +16,4 @@ jobs:
 
             - name: Test
               run: |
-                  go mod init asyncFuncCounter
-                  go mod tidy
-                  go build
-                  go test
+                  go build .
