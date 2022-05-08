@@ -16,5 +16,6 @@ jobs:
 
             - name: Test
               run: |
-                  go build Task2/
+                  go build .
+                  go test -v
                   
